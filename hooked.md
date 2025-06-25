@@ -16,7 +16,7 @@ Because they:
 
 The more often users run through a hook cycle, the more likely they are to form a habit.
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
 **Key Concepts:**  
 Behavior Design, Consumer Psychology, Behavioral Economics, Choice Architecture
@@ -49,7 +49,7 @@ Paul Graham, Dr. Baba Shiv, Dr. Steph Habif, Richard Thaler, Cass Sunstein, Eric
 - Habit-forming potential = Frequency × Perceived Utility
 - A habit forms when not doing something causes discomfort (the “itch”)
 
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
 **Key Concepts:**  
 CLTV (Customer Lifetime Value), Viral Cycle Time, Smile Graph, More-is-More Principle
