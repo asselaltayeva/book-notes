@@ -52,7 +52,7 @@ Paul Graham, Dr. Baba Shiv, Dr. Steph Habif, Richard Thaler, Cass Sunstein, Eric
 - Habit-forming potential = Frequency × Perceived Utility
 - A habit forms when not doing something causes discomfort (the “itch”)
 
-!<div align="center">
+<div align="center">
   <img src="assets/image-2.png" alt="habit zone graph" width="300"/>
 </div>
 
@@ -80,16 +80,10 @@ Examples: push notifications, emails, app icons, ads </br>
 It's a call-to-action button that invites the user to the app.
 Types:
 Types of Triggers:
-- Paid Triggers - like an ad  
-  Good for acquiring new users, but not sustainable long-term.
-
-- Earned Triggers — like press mentions, viral content, interviews </br>
-  Good to attract users through reputation,not sustainable long-term. 
-
-- Relationship Triggers — like word of mouth or invites from friends </br>
-  Come from trusted sources and are often more effective.
-
-- Owned Triggers — like emails, push notifications, or the app icon </br>
+- Paid Triggers -> an ad  
+- Earned Triggers —> press mentions, viral content, interviews </br>
+- Relationship Triggers —>  word of mouth or invites from friends </br>
+- Owned Triggers —> emails, push notifications, or the app icon </br>
   Good for retention of the user. Prompt the user to repeat the engagement until a habit is formed.
 
 2. **Internal Triggers**  
@@ -142,7 +136,7 @@ Elements of Simplicity (Fogg):
 - Social acceptance
 - Match existing routine
 
-Designing with an idea to UX reduces friction, removes obstacles. The easier the action, the more likely the user is to do it. </br>
+Designing with an idea to UX reduces friction, removes obstacles. The easier the action, the more likely the user is going to do it. </br>
 
 People often multitask, don't read instructions, and have little patience for explanations about why or how to do xyz...So make your product so simple that users already know how to use it. </br>
 
@@ -159,10 +153,37 @@ Heuristics are quick ways our brain makes decisions without needing all the info
 *Example:* Loyalty cards, Completion bars
 
 **Key Concepts:**  
-Heuristics, Cognitive Bias, 
+Heuristics, Cognitive Bias 
 
 **Books, Research, Sites:** </br>
 Something really new book, Seductive Interaction Design book
 
 **People Mentioned:**  
 Denis J.Hauptly, Daniel Kahnemen, Stephen Anderson
+
+---
+
+### Chapter 4: Reward
+> "Once we figure out what happens next, we become less excited about the experience. To hold our attention, products must have an ongoing degree of novelty."
+
+Adding variability to the experience increases the frequency of its completion. The uncertainty of what users will find each time they visit site creates the intrigue needed to pull them back in.
+
+Variability Rewards:
+- Tribe (social reward): we as humans crave to be accepted, attractive, important, and included. + we find satisfaction in helping, contributing, sharing, and supporting people we care about. + we like to be respected and honored for the things we do.</br>
+- Hunt: we hunt for physical and digital rewards + with apps, we scroll, refresh, open, search to find what we want
+- Self: we are driven to overcome the obstacles + we seek mastery, growth, completion + we feel good finishing, leveling up, progressing, getting better + we seek rewards tied to our personal effort and identity
+
+Early hunting (pre-weapon [75% of our existence]):
+- persistence hunting. Our ancestors run after the beast not to catch it fast, but to exhaust it
+- tracked the beast for 8–9 hours until it gives up, collapses in surrender.
+- endurance, persistance to get what we want
+
+Reactance:
+- We don't like to be told what to do. We fear to lose our autonomy/freedom. 
+- Let users do what they want to do. Give users freedom to choose. Want > have to.
+
+**Key Concepts:**  
+Social Learning Theory
+
+Do-this-now QQ: 
+- Speak with your customers and identify what they find enjoyable or encouraging about using your product. Are there any moments of delight or surprise? Is there anything they find satisfying?
