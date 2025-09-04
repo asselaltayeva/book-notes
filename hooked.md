@@ -80,10 +80,10 @@ Examples: push notifications, emails, app icons, ads </br>
 It's a call-to-action button that invites the user to the app.
 Types:
 Types of Triggers:
-- Paid Triggers -> an ad  
-- Earned Triggers —> press mentions, viral content, interviews </br>
-- Relationship Triggers —>  word of mouth or invites from friends </br>
-- Owned Triggers —> emails, push notifications, or the app icon </br>
+- Paid Triggers: an ad  
+- Earned Triggers: press mentions, viral content, interviews </br>
+- Relationship Triggers: word of mouth or invites from friends </br>
+- Owned Triggers: emails, push notifications, or the app icon </br>
   Good for retention of the user. Prompt the user to repeat the engagement until a habit is formed.
 
 2. **Internal Triggers**  

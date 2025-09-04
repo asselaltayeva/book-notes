@@ -1,4 +1,5 @@
 Notes from books that I've read. Mostly related to product, tech, & entrepreneurship. Enjoy!
 
 ## Table of Contents
-[Hooked](hooked.md) by Nir Eyal and Ryan Hoover
+- [Hooked](hooked.md) by Nir Eyal and Ryan Hoover
+- [Hackers & Painters: Big Ideas from Computer Age](hackers.md) by Paul Graham
